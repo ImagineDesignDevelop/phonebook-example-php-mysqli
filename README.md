@@ -1,6 +1,6 @@
 # Phonebook Example using PHP and MYSQLI
 
-This is a 9 part video series, you can watch the videos <a href="http://www.carlosbaston.com/videos/MYSQLI_&&_PHP_PHONEBOOK">here.</a> and follow along as I show you how to create a Phonebook application using procedure PHP and MYSQLI.
+This is a 9 part video series, you can watch the videos <a href="https://www.youtube.com/playlist?list=PLcxglTh4Is9b1a0caI24tJxH4-uBCcXKL">here.</a> and follow along as I show you how to create a Phonebook application using procedure PHP and MYSQLI.
 
 Both the starting files and finished files are included.
 
